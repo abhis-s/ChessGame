@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Satch\\source\\repos\\ChessGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|c:\\users\\satch\\source\\repos\\chessgame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|c:\\users\\satch\\source\\repos\\chessgame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|c:\\users\\satch\\source\\repos\\chessgame\\chesscontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|solutionrelative:chesscontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|c:\\users\\satch\\source\\repos\\chessgame\\chesscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|solutionrelative:chesscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|c:\\users\\satch\\source\\repos\\chessgame\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|solutionrelative:board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|c:\\users\\satch\\source\\repos\\chessgame\\pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|solutionrelative:pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|c:\\users\\satch\\source\\repos\\chessgame\\coordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|solutionrelative:coordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|c:\\users\\satch\\source\\repos\\chessgame\\pieces\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|solutionrelative:pieces\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|c:\\users\\satch\\source\\repos\\chessgame\\pieces\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|solutionrelative:pieces\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|c:\\users\\satch\\source\\repos\\chessgame\\pieces\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|solutionrelative:pieces\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|c:\\users\\satch\\source\\repos\\chessgame\\pieces\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|solutionrelative:pieces\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|c:\\users\\satch\\source\\repos\\chessgame\\pieces\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|solutionrelative:pieces\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|c:\\users\\satch\\source\\repos\\chessgame\\pieces\\castle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|solutionrelative:pieces\\castle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|c:\\users\\satch\\source\\repos\\chessgame\\pieces\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C8067-7AA0-47E9-AA57-8ADD8CBE55A6}|ChessGame.csproj|solutionrelative:pieces\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Satch\\source\\repos\\ChessGame\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Satch\\source\\repos\\ChessGame\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-09T16:15:58.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChessControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Satch\\source\\repos\\ChessGame\\ChessControl.xaml.cs",
+              "RelativeDocumentMoniker": "ChessControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Satch\\source\\repos\\ChessGame\\ChessControl.xaml.cs",
+              "RelativeToolTip": "ChessControl.xaml.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:42:28.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Satch\\source\\repos\\ChessGame\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Satch\\source\\repos\\ChessGame\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:50:21.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\Satch\\source\\repos\\ChessGame\\Board.cs",
+              "RelativeDocumentMoniker": "Board.cs",
+              "ToolTip": "C:\\Users\\Satch\\source\\repos\\ChessGame\\Board.cs",
+              "RelativeToolTip": "Board.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAADgv8IAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:54:01.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Coordinate.cs",
+              "DocumentMoniker": "C:\\Users\\Satch\\source\\repos\\ChessGame\\Coordinate.cs",
+              "RelativeDocumentMoniker": "Coordinate.cs",
+              "ToolTip": "C:\\Users\\Satch\\source\\repos\\ChessGame\\Coordinate.cs",
+              "RelativeToolTip": "Coordinate.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:47:07.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\Satch\\source\\repos\\ChessGame\\Pieces\\Knight.cs",
+              "RelativeDocumentMoniker": "Pieces\\Knight.cs",
+              "ToolTip": "C:\\Users\\Satch\\source\\repos\\ChessGame\\Pieces\\Knight.cs",
+              "RelativeToolTip": "Pieces\\Knight.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:27:59.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "King.cs",
+              "DocumentMoniker": "C:\\Users\\Satch\\source\\repos\\ChessGame\\Pieces\\King.cs",
+              "RelativeDocumentMoniker": "Pieces\\King.cs",
+              "ToolTip": "C:\\Users\\Satch\\source\\repos\\ChessGame\\Pieces\\King.cs",
+              "RelativeToolTip": "Pieces\\King.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:36:50.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bishop.cs",
+              "DocumentMoniker": "C:\\Users\\Satch\\source\\repos\\ChessGame\\Pieces\\Bishop.cs",
+              "RelativeDocumentMoniker": "Pieces\\Bishop.cs",
+              "ToolTip": "C:\\Users\\Satch\\source\\repos\\ChessGame\\Pieces\\Bishop.cs",
+              "RelativeToolTip": "Pieces\\Bishop.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:12:21.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pawn.cs",
+              "DocumentMoniker": "C:\\Users\\Satch\\source\\repos\\ChessGame\\Pieces\\Pawn.cs",
+              "RelativeDocumentMoniker": "Pieces\\Pawn.cs",
+              "ToolTip": "C:\\Users\\Satch\\source\\repos\\ChessGame\\Pieces\\Pawn.cs",
+              "RelativeToolTip": "Pieces\\Pawn.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAC0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:42:20.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Rook.cs",
+              "DocumentMoniker": "C:\\Users\\Satch\\source\\repos\\ChessGame\\Pieces\\Rook.cs",
+              "RelativeDocumentMoniker": "Pieces\\Rook.cs",
+              "ToolTip": "C:\\Users\\Satch\\source\\repos\\ChessGame\\Pieces\\Rook.cs",
+              "RelativeToolTip": "Pieces\\Rook.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:14:57.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChessControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Satch\\source\\repos\\ChessGame\\ChessControl.xaml",
+              "RelativeDocumentMoniker": "ChessControl.xaml",
+              "ToolTip": "C:\\Users\\Satch\\source\\repos\\ChessGame\\ChessControl.xaml",
+              "RelativeToolTip": "ChessControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T06:54:04.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Piece.cs",
+              "DocumentMoniker": "C:\\Users\\Satch\\source\\repos\\ChessGame\\Pieces\\Piece.cs",
+              "RelativeDocumentMoniker": "Pieces\\Piece.cs",
+              "ToolTip": "C:\\Users\\Satch\\source\\repos\\ChessGame\\Pieces\\Piece.cs",
+              "RelativeToolTip": "Pieces\\Piece.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:20:12.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Queen.cs",
+              "DocumentMoniker": "C:\\Users\\Satch\\source\\repos\\ChessGame\\Pieces\\Queen.cs",
+              "RelativeDocumentMoniker": "Pieces\\Queen.cs",
+              "ToolTip": "C:\\Users\\Satch\\source\\repos\\ChessGame\\Pieces\\Queen.cs",
+              "RelativeToolTip": "Pieces\\Queen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:26:24.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Castle.cs",
+              "DocumentMoniker": "C:\\Users\\Satch\\source\\repos\\ChessGame\\Pieces\\Castle.cs",
+              "RelativeDocumentMoniker": "Pieces\\Castle.cs",
+              "ToolTip": "C:\\Users\\Satch\\source\\repos\\ChessGame\\Pieces\\Castle.cs",
+              "RelativeToolTip": "Pieces\\Castle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:48:28.223Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
